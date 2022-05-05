@@ -1,0 +1,15 @@
+package org.example;
+
+public class Main {
+    public static void main(String[] args) {
+        int kolichestvoChelovek = 10;
+        System.out.println("kolichestvoChelovek = " + kolichestvoChelovek);
+        double obyemEdyi = 3.5;
+        System.out.println("obyemEdyi = " + obyemEdyi);
+        double kollichestvoEdyiNaOdnogo = obyemEdyi / 10;
+        System.out.println("kollichestvoEdyiNaOdnogo = " + kollichestvoEdyiNaOdnogo);
+        char ocenkaObeda = 'A';
+        boolean HorowayaOcenka = false;
+        System.out.println("HorowayaOcenka = " + HorowayaOcenka);
+    }
+}
